@@ -1,2 +1,2 @@
-# Meus_Projetos_C_Sharp
+# estações astronômicas do hemisfério sul - 2020
 Projetos desenvolvidos em C# 
